@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: testing
-datePublished: '2016-02-01T16:07:46.372Z'
+datePublished: '2016-02-01T16:07:46.588Z'
 dateModified: '2016-02-01T16:07:38.420Z'
 title: Currently in Tokyo
 author: []

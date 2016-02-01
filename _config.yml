@@ -1,0 +1,28 @@
+name: Jelle
+favicon: null
+layout_spectrum: 0.8251214276533574
+typography_spectrum: 0.6552253593690693
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9262905116192997
+  lightness: 0.18465768126770854
+  saturation: 0.3057143473997712
+  rhythmicContrast: 0.28737920988351107
+purpose: []

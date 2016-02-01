@@ -4,11 +4,18 @@
         <description><![CDATA[Jelle's travel blog]]></description>
         <link>https://thegrid.ai/jelle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 15:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 15:57:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jelle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c709cbb7-64b3-4d79-8d57-ce5329ae715e.jpg">]]></description>
+            <link>http://deredactie.be/cm/vrtnieuws/buitenland/2.41769?eid=1.2561554</link>
+            <guid isPermaLink="false">28c50981-910a-423f-b944-c68ab86637be</guid>
+            <pubDate>Mon, 01 Feb 2016 15:57:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[First post]]></title>
-            <description><![CDATA[<article><h1>First post</h1><p>Currently in Tokyo</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2df69a3-882f-4dd4-a6e6-1399502f48b9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>First post</h1><p>Currently in Tokyo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1af73440809671390d9a2dc7efc6f82206a23215.jpg"></article>]]></description>
             <link>https://thegrid.ai/jelle/first-post/index.html</link>
             <guid isPermaLink="false">71f0147d-509c-4694-8dfe-3f82b81c8c86</guid>
             <pubDate>Mon, 01 Feb 2016 15:15:14 GMT</pubDate>

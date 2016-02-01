@@ -1,6 +1,6 @@
 name: Jelle
 favicon: null
-layout_spectrum: 0.72351
+layout_spectrum: 0.74278
 typography_spectrum: 0.75157
 title: "Jelle's travel blog"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#99c7f2'
     - '#7e9fa1'
     - '#fdb081'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
